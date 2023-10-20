@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu01"
+        android:title="학부 안내">
+    </item>
+
+    <item
+        android:id="@+id/menu02"
+        android:title="학사 안내">
+    </item>
+
+    <item
+        android:id="@+id/menu03"
+        android:title="대학원 소개">
+    </item>
+
+    <item
+        android:id="@+id/menu04"
+        android:title="취업 안내">
+    </item>
+
+    <item
+        android:id="@+id/menu05"
+        android:title="공지사항">
+    </item>
+
+</menu>
